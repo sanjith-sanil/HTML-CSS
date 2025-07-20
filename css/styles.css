@@ -1,4 +1,15 @@
-h1{
-    color:blue;
-    font-size: 4rem;
+/* css rule */
+/* selectors */
+/* declaration blocks */
+/* declaration */
+/* property */
+/* value */
+
+#title {
+    color: green;
+    background: black;
+}
+#subheading {
+    color: red;
+    background: gray;
 }
