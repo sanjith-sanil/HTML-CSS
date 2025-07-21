@@ -1,21 +1,9 @@
-/* css rule */
-/* selectors */
-/* declaration blocks */
-/* declaration */
-/* property */
-/* value */
-
-.green{
-    color: green;
-}
-.red {
-    color: yellow;
-    background: orange;
+body{
+    color: red;
 }
 div{
-    color: red;
-    background: gray;
+    color: blue;
 }
-span{
-    text-transform: uppercase;
+h2{
+    color: green;
 }
