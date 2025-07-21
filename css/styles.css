@@ -9,12 +9,13 @@
     color: green;
 }
 .red {
+    color: yellow;
+    background: orange;
+}
+div{
     color: red;
     background: gray;
 }
-#title{
-    font-size: 40px;
-}
-.lowercase{
-    text-transform: lowercase
+span{
+    text-transform: uppercase;
 }
