@@ -1,8 +1,13 @@
-/* font - size, width, height, pixels */
+/* PERSONAL VALUES - RELATIVE */
 
-h1{
-    font-size: 60px;
-    width: 200px;
-    height: 300px;
+.outer{
+    width: 500px;
+    height: 500px;
     background: blue;
+}
+
+.inner{
+    width: 50%;
+    height: 50%;
+    background: red;   
 }
