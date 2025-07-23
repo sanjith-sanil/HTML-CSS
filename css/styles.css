@@ -1,19 +1,8 @@
-/* COLOR PROPERTIES */
-/* COLOR BACKGROUND-COLOR */
+/* font - size, width, height, pixels */
 
-#first{
-    color: #41ead4;
-    background: #000;
-}
-#second{
-    color: #fff;
-    background: #00FF00;
-}
-#three{
-    color: #0000ff;
-    background: #f15025;
-}
-#four{
-    color: #f234ad;
-    background: #222;
+h1{
+    font-size: 60px;
+    width: 200px;
+    height: 300px;
+    background: blue;
 }
