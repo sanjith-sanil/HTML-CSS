@@ -1,13 +1,17 @@
-/* PERSONAL VALUES - RELATIVE */
-
-.outer{
-    width: 500px;
-    height: 500px;
-    background: blue;
+/* 
+em - RELATIVE depends on parent
+1em = 16px default browser style
+1em = base value
+*/
+html{
+    font-size: 32px;
 }
-
-.inner{
-    width: 50%;
-    height: 50%;
-    background: red;   
+div{
+    font-size: 40px;
+}
+.relative{
+    font-size: 1.5rem;
+}
+.absolute{
+    font-size: 48px;
 }
