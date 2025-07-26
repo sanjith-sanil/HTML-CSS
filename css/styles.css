@@ -1,23 +1,23 @@
 /* 
-font-weight
-font-style
+text-align
+text-indent
 */
 
 /* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Yesteryear&display=swap'); */
 
 body{
     font-family: "Roboto", sans-serif;
+    /* text-align: right; */
 }
 .main{
     font-family: "Yesteryear", cursive;
+    text-align: center;
 }
 .subheading{
-    font-style: normal;
 }
 .one{
-    font-weight: 700;
-    font-style: italic
+    text-indent: 10rem;
 }
 .two{
-    font-weight: bold;
+    text-align: left;
 }
