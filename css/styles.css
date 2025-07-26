@@ -1,9 +1,12 @@
 /* 
-font-size font-family
+Google Fonts
 */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Yesteryear&display=swap'); */
+
 body{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "Roboto", sans-serif;
 }
 h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Yesteryear", cursive;
 }
